@@ -1,0 +1,6 @@
+framework module Pods_Camprac {
+  umbrella header "Pods-Camprac-umbrella.h"
+
+  export *
+  module * { export * }
+}
